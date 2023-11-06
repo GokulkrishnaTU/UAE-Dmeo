@@ -1,0 +1,106 @@
+.main{
+    background-image: url("/public/assets/bg-demo.webp");
+}
+
+.head-three{
+    color: #daba55;
+    font-family: "Sarala",Sans-serif;
+    font-size: 115px;
+    font-weight: 600;
+    -webkit-text-stroke-width: 7px;
+    stroke-width: 7px;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+
+
+.head-two{
+    color: #daba55;
+    font-family: "Sarala",Sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+
+.para{
+    color: #FFF;
+    font-family: "Sarala",Sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+}
+  .footer-head{
+    color: #daba55;
+    font-family: "Sarala",Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    line-height: normal;
+    padding-top: 10px
+  }
+
+
+  .footer-p{
+        color: #FFF;
+        font-family: "Sarala",Sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+  }
+
+  .text-container {
+    width: 200px; /* Set your desired width here */
+    overflow-wrap: break-word;
+  }
+
+
+  @media (max-width: 500px) {
+
+
+    .head-three{
+      color: #daba55;
+      font-family: "Sarala",Sans-serif;
+      font-size: 40px;
+      font-weight: 600;
+      -webkit-text-stroke-width: 3px;
+      stroke-width: 3px;
+      -webkit-text-stroke-color: #000;
+      stroke: #000;
+  }
+  
+  
+  .head-two{
+      color: #daba55;
+      font-family: "Sarala",Sans-serif;
+      font-size: 20px;
+      font-weight: 600;
+  }
+  
+  
+  .para{
+      color: #FFF;
+      font-family: "Sarala",Sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+  }
+
+
+
+  .footer-head{
+    color: #daba55;
+    font-family: "Sarala",Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    line-height: normal;
+    padding-top: 10px
+  }
+
+
+  .footer-p{
+        color: #FFF;
+        font-family: "Sarala",Sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+  }
+
+
+  }
